@@ -42,7 +42,7 @@ openssl x509 -req -days 365 -in csr.pem -signkey key.pem -out cert.pem
 
 ## Author
 
-- [**Truly Mittal**](https://prem-pb.com)
+- [**Govinda Biswas**](https://prem-pb.com)
 
 ## Contribute
 
